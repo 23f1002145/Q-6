@@ -1,0 +1,6 @@
+{
+  "prompt": "A hyper-detailed realistic scene of a tailor obsessively stitching a suit onto a mannequin, adding excessive patches, threads, and adjustments until the suit becomes overly complex, distorted, and unusable. The mannequin stands stiff while the tailor keeps modifying endlessly. The workshop is cluttered with fabric scraps and tools. No text, no labels, no diagrams. Cinematic lighting, highly realistic, physically plausible.",
+  "model": "DALL-E / ChatGPT image",
+  "concept": "overfitting",
+  "metaphor": "A tailor over-adjusting a suit until it becomes unusable represents a model fitting noise instead of general patterns."
+}
